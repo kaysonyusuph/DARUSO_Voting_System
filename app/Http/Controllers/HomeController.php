@@ -12,4 +12,19 @@ class HomeController extends Controller
     {
     	return View('home/home');
     }
+
+    function head()
+    {
+    	return View('home/head');
+    }
+
+    function usscr()
+    {
+    	return View('result/usscr');
+    }
+
+    function college()
+    {
+    	return View('result/college');
+    }
 }

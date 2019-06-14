@@ -1,1 +1,0 @@
-College voting page

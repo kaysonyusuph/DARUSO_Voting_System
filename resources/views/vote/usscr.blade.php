@@ -1,1 +1,0 @@
-USSCR voting page

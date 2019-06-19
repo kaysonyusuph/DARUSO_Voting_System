@@ -168,9 +168,10 @@ nav ul li:hover ul {
 	background-color: brown;
 	border:2px solid #f3f3f3;
 	color: white;
-	height: 50px;
+	height: 100px;
 	width: 15%;
 	font-size: 25px;
+	border-radius: 20px;
 
 
 }
@@ -215,7 +216,7 @@ img{
 	height: 50px;
 	/*width: 250px;*/
 	font-size:25px;
-	background:yellow;
+	background:lightyellow;
 	/*border: none;*/
 	border: 2px solid black;
 }
@@ -260,12 +261,17 @@ img{
 	/*width: 250px;*/
 	font-size: 25px;
 	background-color: purple;
-	color: black;
-	list-style: none;
+	color: white;
+	/*list-style: none;*/
+}
+
+.batani {
+	border-radius: 10px;
 }
 
 #loginbutton li a {
 	list-style: none;
+	color: white;
 }
 
 .userpass {

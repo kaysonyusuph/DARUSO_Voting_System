@@ -37,6 +37,8 @@ Route::get('/', function () {
 
 Route::get('/home', "HomeController@home");
 Route::get('/head', "HomeController@head");
+Route::get('/login', "HomeController@index");
+Route::get('/register', "HomeController@register");
 Route::get('/college', "HomeController@college");
 Route::get('/usscr', "HomeController@usscr");
 Route::get('/class', "ResultController@class");

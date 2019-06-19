@@ -25,6 +25,17 @@ class HomeController extends Controller
 
     function college()
     {
-    	return View('result/college');
+        return View('result/college');
+    }
+
+    function index()
+    {
+        return View('layout/logout/index');
+    }
+
+
+    function register()
+    {
+        return View('layout/myaccount/register');
     }
 }

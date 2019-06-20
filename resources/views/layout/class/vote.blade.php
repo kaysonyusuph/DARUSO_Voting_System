@@ -11,17 +11,17 @@
 		<div class="col-4 col-md-3 col-xl-2 box1">
 			<div id="categ" class="row">
 						<div class="col-10 category">
-							<li><a href="PresidentResult.html">President</a></li>
+							<li><a href="vote">President</a></li>
 						</div>
 						<div class="col-10 category">
-							<li><a href="CollegeResult.html">College</a></li>
+							<li><a href="college/vote">College</a></li>
 						</div>
 						<div class="col-10 category">
-							<li><a href="USSCRResult.html">USSCR</a></div></li>
+							<li><a href="USSCR/vote">USSCR</a></div></li>
 						<div class="col-10 category">
-							<li><a href="ClassResult.html">Class</a></li>
+							<li><a href="class/vote">Class</a></li>
 						</div>
-					</div>
+			</div>
 		</div>
 
 		<div class="col-8 col-md-9 col-xl-10 box1">

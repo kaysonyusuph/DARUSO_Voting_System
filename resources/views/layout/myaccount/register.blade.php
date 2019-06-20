@@ -18,7 +18,7 @@
 
 			<div class="row">
 				<div class="col-12">
-					<form action="index.html" method="">
+					<form action="/" method="">
 						<div class="row">
 							<div class="col-xl-6 register col-lg-12">
 								<label class="label" for="regno">Registration number</label>
@@ -67,7 +67,7 @@
 
 						<div class="row">
 							<div class="col-6 offset-3">
-								<button id="loginbutton" class="batani button-round"><li><a href='index.html'>Login Here</a><li></button>
+								<button id="loginbutton" class="batani button-round"><li style="list-style: none;"><a href='/'>Login Here</a></li></button>
 								<!-- <input type="submit" id="loginbutton" class="batani" value="
 								" name=""> -->
 							</div>

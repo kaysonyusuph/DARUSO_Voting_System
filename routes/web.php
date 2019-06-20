@@ -32,13 +32,17 @@
 // });
 
 Route::get('/', function () {
-    return view('page.home');
+    return view('page.logout/index');
 });
 
 Route::get('/home', "HomeController@home");
-Route::get('/head', "HomeController@head");
-Route::get('/login', "HomeController@index");
 Route::get('/register', "HomeController@register");
-Route::get('/college', "HomeController@college");
-Route::get('/usscr', "HomeController@usscr");
-Route::get('/class', "ResultController@class");
+Route::get('/vote', "VoteController@vote");
+Route::get('/result', "ResultController@result");
+
+Route::get('/vote/college', "VoteController@collegeVote");
+Route::get('/vote/USSCR', "VoteController@USSCRVote");
+Route::get('/vote/class', "VoteController@classVote");
+Route::get('/result/college', "ResultController@collegeResult");
+Route::get('/result/USSCR', "ResultController@USSCRResult");
+Route::get('/result/class', "ResultController@classResult");

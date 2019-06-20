@@ -17,21 +17,21 @@
 				<div class="col-4 col-md-3 col-xl-2 box1">
 					<div id="categ" class="row">
 						<div class="col-12 category">
-							<li><a href="PresidentResult.html">President</a></li>
+							<li><a href="result">President</a></li>
 						</div>
 						<div class="col-12 category">
-							<li><a href="CollegeResult.html">College</a></li>
+							<li><a href="result/college">College</a></li>
 						</div>
 						<div class="col-12 category">
-							<li><a href="USSCRResult.html">USSCR</a></div></li>
+							<li><a href="result/USSCR">USSCR</a></div></li>
 						<div class="col-12 category">
-							<li><a href="ClassResult.html">Class</a></li>
+							<li><a href="result/class">Class</a></li>
 						</div>
 					</div>
 				</div>
 
 				<div class="col-8 col-md-9 col-xl-10 box1">
-					<div class="row">
+					<div class="row cut-line">
 						<div class="col-2 candTitle">Picture</div>
 						<div class="col-6 candTitle">Names</div>
 						<div class="col-2 candTitle">Total Votes</div>
@@ -39,11 +39,11 @@
 					</div>  <!-- row -->
 
 					<div class="row">
-						<div class="col-12 name">Chairperson Category</div>
+						<div class="col-12 name">Male CRs Category</div>
 					</div>
 					<div class="row cut-line">
 						<div class="col-lg-2 col-sm-4 col-6 candidate">Picture</div>
-						<div class="col-lg-6 col-sm-4 col-6 candidate">Kiatu, Paschal L.</div>
+						<div class="col-lg-6 col-sm-4 col-6 candidate">Sanzu, Machiya N.</div>
 						<div class="col-lg-2 col-sm-4 col-6 candidate">
 							<div class="row" style="margin-left: 10px;">
 								Votes
@@ -63,7 +63,7 @@
 					</div>  <!-- row -->
 					<div class="row cut-line">
 						<div class="col-lg-2 col-sm-4 col-6 candidate">Picture</div>
-						<div class="col-lg-6 col-sm-4 col-6 candidate">Suleimani, Shabani J.</div>
+						<div class="col-lg-6 col-sm-4 col-6 candidate">Rutayuga, Devis R.</div>
 						<div class="col-lg-2 col-sm-4 col-6 candidate">
 							<div class="row" style="margin-left: 10px;">
 								Votes
@@ -89,11 +89,11 @@
 					</div> -->
 
 					<div class="row">
-						<div class="col-12 name">General Secretary Category</div>
+						<div class="col-12 name">Female CRs Category</div>
 					</div>
 					<div class="row cut-line">
 						<div class="col-lg-2 col-sm-4 col-6 candidate">Picture</div>
-						<div class="col-lg-6 col-sm-4 col-6 candidate">Makenzi, John P.</div>
+						<div class="col-lg-6 col-sm-4 col-6 candidate">Nyaindi, Grace</div>
 						<div class="col-lg-2 col-sm-4 col-6 candidate">
 							<div class="row" style="margin-left: 10px;">
 								Votes
@@ -113,7 +113,7 @@
 					</div>  <!-- row -->
 					<div class="row cut-line">
 						<div class="col-lg-2 col-sm-4 col-6 candidate">Picture</div>
-						<div class="col-lg-6 col-sm-4 col-6 candidate">Livoga Olga G.</div>
+						<div class="col-lg-6 col-sm-4 col-6 candidate">Bori, Asha O.</div>
 						<div class="col-lg-2 col-sm-4 col-6 candidate">
 							<div class="row" style="margin-left: 10px;">
 								Votes

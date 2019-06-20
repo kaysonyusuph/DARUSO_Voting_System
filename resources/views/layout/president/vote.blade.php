@@ -10,21 +10,17 @@
 	<div class="row">
 		<div class="col-4 col-md-3 col-xl-2 box1">
 			<div id="categ" class="row">
-				<ul>
-				<div class="col-12 category">
-					<li><a href="PresidentElection.html">President</a></li>
+				<div class="col-10 category">
+					<li><a href="vote">President</a></li>
 				</div>
-				<div class="col-12 category">
-					<li><a href="CollegeElection.html">College</a></li>
+				<div class="col-10 category">
+					<li><a href="vote/college">College</a></li>
 				</div>
-				<div class="col-12 category">
-					<li><a href="USSCRElection.html">USSCR</a>
-					</li>
+				<div class="col-10 category">
+					<li><a href="vote/USSCR">USSCR</a></div></li>
+				<div class="col-10 category">
+					<li><a href="vote/class">Class</a></li>
 				</div>
-				<div class="col-12 category">
-					<li><a href="ClassElection.html">Class</a></li>
-				</div>
-			</ul>
 			</div>
 		</div>
 

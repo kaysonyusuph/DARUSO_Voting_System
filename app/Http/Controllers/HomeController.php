@@ -10,7 +10,7 @@ class HomeController extends Controller
 
     function home()
     {
-    	return View('home/home');
+    	return View('page/home');
     }
 
     function head()
@@ -38,4 +38,6 @@ class HomeController extends Controller
     {
         return View('layout/myaccount/register');
     }
+
+   
 }

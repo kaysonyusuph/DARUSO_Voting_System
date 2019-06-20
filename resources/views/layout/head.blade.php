@@ -45,11 +45,11 @@
 								<!-- <div class="col"> -->
 							<nav>
 								<ul>
-									<li><a href="home.html">Home</a></li>
-									<li><a href="PresidentElection.html">Vote</a></li>
-									<li><a href="PresidentResult.html">Results</a></li>
+									<li><a href="/home">Home</a></li>
+									<li><a href="/vote">Vote</a></li>
+									<li><a href="/result">Results</a></li>
 									<li><a href="#">MyAccount</a></li>
-									<li><a href="index.html">Logout</a></li>
+									<li><a href="/">Logout</a></li>
 								</ul>
 							</nav>
 								<!-- </div> -->

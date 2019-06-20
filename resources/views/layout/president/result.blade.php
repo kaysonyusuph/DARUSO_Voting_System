@@ -15,18 +15,17 @@
 
 			<div class="row">
 				<div class="col-4 col-md-3 col-xl-2 box1">
-					
 					<div id="categ" class="row">
 						<div class="col-12 category">
-							<li><a href="PresidentResult.html">President</a></li>
+							<li><a href="result">President</a></li>
 						</div>
 						<div class="col-12 category">
-							<li><a href="CollegeResult.html">College</a></li>
+							<li><a href="result/college">College</a></li>
 						</div>
 						<div class="col-12 category">
-							<li><a href="USSCRResult.html">USSCR</a></div></li>
+							<li><a href="result/USSCR">USSCR</a></div></li>
 						<div class="col-12 category">
-							<li><a href="ClassResult.html">Class</a></li>
+							<li><a href="result/class">Class</a></li>
 						</div>
 					</div>
 				</div>

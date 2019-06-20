@@ -24,7 +24,7 @@
 	<!-- <div class="container">		 -->
 	<div class="row" >
 		<div class="col-10 offset-1 order-3 col-lg-4 order-lg-2" id="loginpage">
-			<form action="home.html" method="">
+			<form action="home" method="">
 				<div class="row">
 					<div class="col-10 offset-1">
 						<h2>Login Form</h2>
@@ -57,7 +57,7 @@
 
 				<div class="row">
 					<div class="col-6 offset-3">
-						<button id="registerloginbutton" class="batani button-round input"><li style="list-style: none;"><a href='registration.html'>Register Here</a></li></button>
+						<button id="registerloginbutton" class="batani button-round input"><li style="list-style: none;"><a href='register'>Register Here</a></li></button>
 						<!-- <input type="button" id="registerhere" class="batani" value="Register Here" name=""> -->
 					</div>
 				</div>  <!-- register here -->
